@@ -1,14 +1,19 @@
-### ...
+<h1>Hi All</h1>
 
-**Jesen-N/Jesen-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascrip />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>My Stats</h1>
+<a href="https://github.com/Jesen-N">
+    <img
+    align
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesen-N&layout=compact&theme=dark"
+/></a>
+<a href="https://github.com/Jesen-N">
+   <img
+   align
+   src="https://github-readme-stats.vercel.app/api?username=Jesen-N&count_private=true&theme=dark"
+/></a>
