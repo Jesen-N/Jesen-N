@@ -1,5 +1,5 @@
-<h2>Hi All My Name Is Jesen N</h2>
-
+<h2>Hello!</h2>
+<p>Name: Jesen N</p>
 <h1>Language</h1>
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
