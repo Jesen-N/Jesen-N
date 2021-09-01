@@ -1,12 +1,13 @@
-<h2>Hello!</h2>
-<p>Name: Jesen N</p>
-<h1>Language</h1>
+## Wellcome to my Github
+<p>Hello World</p>
+
+## Currently Learning
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h1>My Stats</h1>
+## Info
 <a href="https://github.com/Jesen-N">
     <img
     align
